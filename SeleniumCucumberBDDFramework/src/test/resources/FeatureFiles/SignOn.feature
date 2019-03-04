@@ -11,5 +11,5 @@ Then close the browser
 
 Examples:
 	| username | password    |
-	| 313308   | Mar@2019Mar |
+	| 313308   | test        |
 
